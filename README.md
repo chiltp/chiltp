@@ -7,10 +7,7 @@
 👋 Hi, I’m Chi — a detail-driven QA Engineer growing into JavaScript and web development, with a strong eye for clean UI, thoughtful testing, and building quality-first habits.
 
 - 🔭 I’m currently working on practicing JavaScript and problem-solving through freeCodeCamp, while documenting my learning journey in my personal coding lab
-- 🌱 I’m currently learning JavaScript (ES6+), Git & GitHub, basic DOM concepts, and modern web development fundamentals
-- 👯 I’m looking to collaborate on beginner-friendly web projects, UI/UX improvements, and anything where testing, clean design, and user experience matter
 - 🤝 I’m looking for help with Automation testing, JavaScript best practices, and bridging the gap between QA and development workflows
-- 💬 Ask me about UI/UX testing, writing clear test cases and spotting pixel-level issues
 
 ## 🛠 What I’m Building Right Now
 - Expanding my freeCodeCamp coding lab with clean, well-documented JavaScript solutions
