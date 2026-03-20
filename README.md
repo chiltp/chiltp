@@ -1,42 +1,84 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=25&pause=1200&color=0F4C5C&center=true&vCenter=true&width=750&lines=Hi%2C+I%E2%80%99m+Chi+%F0%9F%A7%80;QA+Engineer+%E2%86%92+JavaScript+Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&color=0F4C5C&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Chi+%E2%80%94+QA+Engineer+Learning+Automation+Testing" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/luongthiphuongchi/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:luongphuongchi1505@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
-# 💫 About Me
-👋 Hi, I’m Chi — a detail-driven QA Engineer growing into JavaScript and web development, with a strong eye for clean UI, thoughtful testing, and building quality-first habits.
 
-- 🔭 I’m currently working on practicing JavaScript and problem-solving through freeCodeCamp, while documenting my learning journey in my personal coding lab
-- 🤝 I’m looking for help with Automation testing, JavaScript best practices, and bridging the gap between QA and development workflows
+## About Me
 
-## 🛠 What I’m Building Right Now
-- Expanding my freeCodeCamp coding lab with clean, well-documented JavaScript solutions
-- Practicing daily JavaScript coding challenges to strengthen problem-solving and consistency
+I'm a **QA Engineer** transitioning into **automation testing** — currently learning **JavaScript** and **Playwright** to bridge the gap between manual QA and test automation.
 
-## 🧠 How I Approach Problems
-- I start by understanding the problem context and requirements before writing any code
-- I review the relevant concepts and syntax, researching when needed to apply the best solution 
-- I prefer clear, readable solutions over clever but hard-to-maintain ones
-  
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luongthiphuongchi/)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luongphuongchi1505@gmail.com) 
+My QA background gives me a head start: I already think in test cases, edge cases, and user flows — now I'm building the technical skills to automate them.
 
-## 💻 Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+**Currently:**
+- Learning JavaScript through [freeCodeCamp](https://www.freecodecamp.org/) and daily coding challenges
+- Picking up Playwright for end-to-end test automation
+- Building a public learning portfolio to track my progress
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=chiltp&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=chiltp&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chiltp&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-## ✨ Featured Projects
-- [Chi’s Coding Lab](https://github.com/chiltp/chi-coding-lab) — A growing collection of freeCodeCamp JavaScript exercises, refactored solutions, and learning notes focused on readability, and clean logic
-- More projects in progress as I continue learning and building
+## What I Bring to a Team
 
-> Progress over perfection, one line of code at a time.
+**QA:** Manual testing · Bug reporting · Test planning · UI/UX review <br>
+**Learning:** JavaScript · Playwright · Git <br>
+**Strengths:** Documentation · Collaboration · Detail-oriented · Self-directed
+
+---
+
+## How I Work
+
+- **Understand first, code second** — I invest time in grasping the problem before jumping to a solution
+- **Readability over cleverness** — I write code that others (and future me) can maintain
+- **Build in public** — I document my learning journey openly, showing both progress and process
+- **Consistent practice** — Daily coding challenges and a growing portfolio of well-documented solutions
+
+---
+
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+</p>
+
+---
+
+## Featured Project
+
+### [Chi's Coding Lab](https://github.com/chiltp/chi-coding-lab)
+
+A growing collection of JavaScript exercises and learning notes — organized by topic and focused on readability and clean logic.
+
+- Covers arrays, functions, objects, higher-order functions, and more
+- Each solution includes inline comments explaining the *why*, not just the *what*
+- Daily coding challenges with automated streak tracking via GitHub Actions
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chiltp&theme=default&hide_border=true&include_all_commits=true&count_private=true&title_color=0F4C5C&text_color=333&icon_color=0F4C5C" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=chiltp&theme=default&hide_border=true&ring=0F4C5C&fire=0F4C5C&currStreakLabel=0F4C5C" width="48%" />
+</p>
+
+---
+
+<p align="center">
+  <em>"Progress over perfection — one line of code at a time."</em>
+</p>
