@@ -20,26 +20,35 @@ I'm a **QA Engineer** transitioning into **automation testing** — currently le
 My QA background gives me a head start: I already think in test cases, edge cases, and user flows — now I'm building the technical skills to automate them.
 
 **Currently:**
-- Learning JavaScript through [freeCodeCamp](https://www.freecodecamp.org/) and daily coding challenges
-- Picking up Playwright for end-to-end test automation
+- Building end-to-end tests with Playwright
+- Strengthening JavaScript skills through [freeCodeCamp](https://www.freecodecamp.org/) and daily coding challenges
 - Building a public learning portfolio to track my progress
+
+**What's Next:**
+- API testing with Playwright
+- Visual regression testing
+- Cross-browser testing strategies
+
+---
+
+## Featured Projects
+
+<p align="center">
+  <a href="https://github.com/chiltp/learn-playwright">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chiltp&repo=learn-playwright&title_color=0F4C5C&text_color=333&icon_color=0F4C5C&hide_border=true&cache_seconds=1" />
+  </a>
+  <a href="https://github.com/chiltp/chi-coding-lab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chiltp&repo=chi-coding-lab&title_color=0F4C5C&text_color=333&icon_color=0F4C5C&hide_border=true&cache_seconds=1" />
+  </a>
+</p>
 
 ---
 
 ## What I Bring to a Team
 
 **QA:** Manual testing · Bug reporting · Test planning · UI/UX review <br>
-**Learning:** JavaScript · Playwright · Git <br>
+**Automation:** Playwright · JavaScript · Git <br>
 **Strengths:** Documentation · Collaboration · Detail-oriented · Self-directed
-
----
-
-## How I Work
-
-- **Understand first, code second** — I invest time in grasping the problem before jumping to a solution
-- **Readability over cleverness** — I write code that others (and future me) can maintain
-- **Build in public** — I document my learning journey openly, showing both progress and process
-- **Consistent practice** — Daily coding challenges and a growing portfolio of well-documented solutions
 
 ---
 
@@ -58,15 +67,12 @@ My QA background gives me a head start: I already think in test cases, edge case
 
 ---
 
-## Featured Project
+## How I Work
 
-### [Chi's Coding Lab](https://github.com/chiltp/chi-coding-lab)
-
-A growing collection of JavaScript exercises and learning notes — organized by topic and focused on readability and clean logic.
-
-- Covers arrays, functions, objects, higher-order functions, and more
-- Each solution includes inline comments explaining the *why*, not just the *what*
-- Daily coding challenges with automated streak tracking via GitHub Actions
+- **Understand first, code second** — I invest time in grasping the problem before jumping to a solution
+- **Readability over cleverness** — I write code that others (and future me) can maintain
+- **Build in public** — I document my learning journey openly, showing both progress and process
+- **Consistent practice** — Daily coding challenges and a growing portfolio of well-documented solutions
 
 ---
 
@@ -74,7 +80,7 @@ A growing collection of JavaScript exercises and learning notes — organized by
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chiltp&theme=default&hide_border=true&include_all_commits=true&count_private=true&title_color=0F4C5C&text_color=333&icon_color=0F4C5C" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=chiltp&theme=default&hide_border=true&ring=0F4C5C&fire=0F4C5C&currStreakLabel=0F4C5C" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=chiltp&theme=default&hide_border=true&ring=0F4C5C&fire=0F4C5C&currStreakLabel=0F4C5C" width="48%" />
 </p>
 
 ---
